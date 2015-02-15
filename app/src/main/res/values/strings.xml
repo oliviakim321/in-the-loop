@@ -8,4 +8,14 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <string name="launcher_title1">Weather</string>
+    <string name="launcher_title2">Global</string>
+    <string name="launcher_title3">Local</string>
+    <string name="launcher_title4">Sports</string>
+    <string name="launcher_title5">Technology</string>
+    <string name="launcher_title6">Business</string>
+    <string name="launcher_title7">Finance</string>
+    <string name="launcher_title8">Politics</string>
+    <string name="launcher_title9">Entertainment</string>
+
 </resources>
